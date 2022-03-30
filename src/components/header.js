@@ -24,7 +24,8 @@ const Header = ({ siteTitle }) => (
             textDecoration: `none`,
           }}
         >
-          {siteTitle}
+          {/* {siteTitle} */}
+          Pixedstudio
         </Link>
       </h1>
     </div>
